@@ -1,9 +1,5 @@
 package Day015;
 
-import java.security.cert.LDAPCertStoreParameters;
-
-
-
 public class main {
   public static void main(String[] args) {
   
