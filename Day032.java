@@ -3,6 +3,7 @@ package Day032;
 public class main{
         public static void main(String[] args) {
         boolean a,b,c;
+                
         System.out.println("==== OR (||) ===");
         a = true;
         b = false;  
@@ -58,8 +59,7 @@ public class main{
         b = true;
         c = a ^ b;
         System.out.println(a + " ^ " + b + " = " + c );
-        
- 
+         
         System.out.println("\n");
         System.out.println("=== NEGASI (!) ===");
         a = true;
